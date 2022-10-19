@@ -4,6 +4,19 @@
   padding: 20px;
 }
 
+.animals {
+  column-count: 3;
+  text-align: center;
+}
+
+img {
+  width: 90%;
+  height: auto;
+  margin: auto;
+  display: block;
+
+}
+
 .dog1 {
   border: 3px solid forestgreen;
   background-color: lightgreen;
