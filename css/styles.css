@@ -17,7 +17,7 @@ img {
 
 }
 
-.dog1 {
+.info {
   border: 3px solid forestgreen;
   background-color: lightgreen;
   padding: 8px;
@@ -25,18 +25,3 @@ img {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-.cat1 {
-  border: 3px solid forestgreen;
-  background-color: lightgreen;
-  padding: 8px;
-  margin: 8px;
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-.bird {
-  border: 3px solid forestgreen;
-  background-color: lightgreen;
-  padding: 8px;
-  margin: 8px;
-  font-family: Arial, Helvetica, sans-serif;
-}
